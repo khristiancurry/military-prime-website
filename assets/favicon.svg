@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Military Prime red house mark</title>
+  <g fill="none" stroke="#c9274d" stroke-linecap="square" stroke-linejoin="miter" stroke-width="8">
+    <path d="M12 47 64 8l52 39"/>
+    <path d="m12 65 52-39 52 39"/>
+    <path d="m12 83 52-39 52 39"/>
+    <path d="M22 83v36h84V83"/>
+  </g>
+</svg>

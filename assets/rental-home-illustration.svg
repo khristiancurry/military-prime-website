@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" role="img" aria-labelledby="title description">
+  <title id="title">A welcoming home</title>
+  <desc id="description">An illustration of a classic home with a red door, green trees, and a sunny sky.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1">
+      <stop stop-color="#d5e6ee"/>
+      <stop offset="1" stop-color="#f8f2e7"/>
+    </linearGradient>
+    <linearGradient id="house" x2="0" y2="1">
+      <stop stop-color="#fffefa"/>
+      <stop offset="1" stop-color="#eee8dd"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="800" fill="url(#sky)"/>
+  <circle cx="805" cy="145" r="67" fill="#e4bd76" opacity=".92"/>
+  <path d="M0 482c149-62 281-62 441-15 196 58 360 36 559-17v350H0z" fill="#afc7ae"/>
+  <path d="M0 563c182-67 348-51 504 0 184 61 345 40 496-9v246H0z" fill="#88a98c"/>
+  <path d="m208 360 291-206 293 206v337H208z" fill="url(#house)" stroke="#d7d0c4" stroke-width="8"/>
+  <path d="m165 372 334-242 335 242-31 45-304-218-303 218z" fill="#314b64"/>
+  <path d="M447 474h108v223H447z" fill="#bd3150"/>
+  <circle cx="533" cy="588" r="6" fill="#edcf8b"/>
+  <path d="M276 424h98v108h-98zM626 424h98v108h-98z" fill="#9fc4d2" stroke="#fffefa" stroke-width="12"/>
+  <path d="M325 424v108m-49-54h98m301-54v108m-49-54h98" stroke="#fffefa" stroke-width="9"/>
+  <path d="M404 697v-89c0-53 43-96 96-96s96 43 96 96v89" fill="#d0aa6f" opacity=".26"/>
+  <path d="M0 690c216-36 350-19 500 42 151 61 299 69 500 10v58H0z" fill="#739174"/>
+  <path d="M119 460h61v185h-61z" fill="#60866a"/>
+  <circle cx="150" cy="414" r="74" fill="#6f9877"/>
+  <circle cx="107" cy="444" r="55" fill="#84a986"/>
+  <circle cx="185" cy="443" r="53" fill="#5f8869"/>
+  <path d="M803 481h58v177h-58z" fill="#668a69"/>
+  <circle cx="831" cy="431" r="72" fill="#729a75"/>
+  <circle cx="786" cy="457" r="50" fill="#89ad8b"/>
+  <circle cx="875" cy="460" r="50" fill="#5f8869"/>
+  <path d="m500 697 95 103H400z" fill="#d7c6a9"/>
+</svg>
