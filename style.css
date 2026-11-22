@@ -198,6 +198,7 @@ h1 em, h2 em { color: var(--red); font-weight: 400; }
 }
 
 .button:hover { transform: translateY(-2px); }
+.button-icon { width: 14px; height: 14px; flex: 0 0 14px; fill: none; stroke: currentColor; stroke-width: 1.5; stroke-linecap: round; stroke-linejoin: round; }
 .button-red { color: var(--white); background: var(--red); }
 .button-red:hover, .button-red:focus-visible { background: var(--red-dark); }
 .button-outline { border-color: rgba(255,255,255,.64); color: var(--white); background: rgba(255,255,255,.04); }
@@ -229,6 +230,8 @@ h1 em, h2 em { color: var(--red); font-weight: 400; }
 .welcome-copy { max-width: 550px; padding-top: 34px; color: var(--muted); font-size: 16px; }
 .welcome-copy p { margin-bottom: 16px; }
 .text-link { display: inline-flex; align-items: center; gap: 12px; margin-top: 9px; color: var(--navy); font-size: 11px; font-weight: 700; letter-spacing: .08em; text-decoration: none; text-transform: uppercase; }
+.text-link-icon { width: 17px; height: 17px; fill: none; stroke: var(--red); stroke-width: 1.5; stroke-linecap: round; stroke-linejoin: round; transition: transform .2s ease; }
+.text-link:hover .text-link-icon { transform: translateX(4px); }
 .text-link span { color: var(--red); font-size: 19px; transition: transform .2s ease; }
 .text-link:hover span { transform: translateX(4px); }
 
