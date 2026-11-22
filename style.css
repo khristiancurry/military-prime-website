@@ -214,7 +214,7 @@ h1 em, h2 em { color: var(--red); font-weight: 400; }
   margin-top: 49px;
 }
 
-.hero-note-mark { color: #e6c27f; font-size: 24px; }
+.hero-note-mark { width: 6px; height: 6px; flex: 0 0 6px; border-radius: 50%; background: #e6c27f; }
 .hero-note p { margin: 0; color: rgba(255,255,255,.72); font-size: 11px; line-height: 1.65; }
 .hero-note strong { color: var(--white); font-size: 12px; }
 .hero-scroll { position: absolute; right: 33px; bottom: 30px; display: flex; align-items: center; gap: 10px; color: rgba(255,255,255,.75); font-size: 9px; letter-spacing: .13em; text-decoration: none; text-transform: uppercase; }
